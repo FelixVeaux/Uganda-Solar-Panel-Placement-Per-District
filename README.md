@@ -84,8 +84,5 @@ Uganda’s Ministry of Energy and Mineral Development, with support from the Int
 - **Implementation Timeline:** Prioritize high-demand districts first, then scale to remote areas, ensuring that the highest-impact installations occur early.
 - **Socioeconomic Indexing:** Incorporate metrics like poverty rates or healthcare deficits to ensure energy reaches the most vulnerable communities first.
 
-## What other factors do you think should guide solar panel placement in countries like Uganda? Share your thoughts and experiences!
-
 **Article written by Félix Veaux**  
-Published: 16/12/2024
 
